@@ -1,3 +1,3 @@
-# Fortran_codes_2
+# Google_Colab_Codes
 
-These are the Fortran codes that I prepared while learning Fortran. These codes are saved in colab for ease of access.
+These are the codes that I prepared while learning. These codes are saved in colab for ease of access.
